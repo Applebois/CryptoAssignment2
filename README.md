@@ -3,4 +3,5 @@
 
 
 chmod u+x seed_cfb
+
 ./seed_cfb -h 
