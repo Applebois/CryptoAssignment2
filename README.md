@@ -2,7 +2,11 @@
 ![](sample.gif)
 
 git clone https://github.com/Applebois/CryptoAssignment2/
+
 cd CryptoAssignment2
+
 chmod u+x seed_cfb
+
 ./seed_cfb -h
+
 Enjoy :) !
