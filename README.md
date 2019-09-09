@@ -1,7 +1,6 @@
 # CryptoAssignment2 | Block Cipher using Seed Encryption 
 ![](sample.gif)
 
-<<<<<<< HEAD
 ![](sample1.gif)
 
 ![](sample2.gif)
