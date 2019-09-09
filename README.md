@@ -5,6 +5,8 @@ git clone https://github.com/Applebois/CryptoAssignment2/
 
 cd CryptoAssignment2
 
+cd Output
+
 chmod u+x seed_cfb
 
 ./seed_cfb -h
